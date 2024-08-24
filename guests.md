@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
-| Kiril Dora        | 2 	          |
+| Kiril Dora        | 1 	          |
